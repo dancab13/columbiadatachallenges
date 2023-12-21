@@ -6,4 +6,4 @@ This repository contains materials--such as Excel workbooks, Word reports, and c
 As of December 21, 2023, the materials are available for:
 Challenge 1
 
-All code is my own unless otherwise specified.
+All code is my own unless specified otherwise.
