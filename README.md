@@ -2,9 +2,11 @@
 
 *Materials for the Columbia Data Analytics Bootcamp challenges*
 <img width="928" alt="image" src="https://github.com/dancab13/columbiadatachallenges/assets/147662348/b1835366-02e2-4721-90b2-fe2bbb8762c6">
+
 *A screenshot of the main dataset*
 
 <img width="1071" alt="image" src="https://github.com/dancab13/columbiadatachallenges/assets/147662348/b9b83906-a363-4f07-8e05-f1948dfd1bc7">
+
 *A screenshot of one of the Pivot Tables and Charts*
 
 This repo demonstrates my proficiency with using Microsoft Excel to analyze a large dataset to find trends within the data. I used conditional formatting to highlight relevant changes in data. I also used Pivot Tables and Pivot Charts to visualize various trends and findings. The included report analyses the findings and posits why certain crowdfunding projects are successful.
